@@ -98262,7 +98262,7 @@ $0(){var s=this.a
 return s.d.$1(s.Sj())},
 $S:0}
 A.OX.prototype={
-D(a){return new A.BM(new A.ae7(),"Flutter Demo",A.EK(B.CD,null,B.Fy,B.m,null),null)}}
+D(a){return new A.BM(new A.ae7(),"TymeSlice Seller",A.EK(B.CD,null,B.Fy,B.m,null),null)}}
 A.ae7.prototype={
 $1(a){return A.b0J(a)},
 $S:175}
