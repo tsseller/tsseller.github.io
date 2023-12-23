@@ -99972,7 +99972,7 @@ pC(a,b){return this.a0Q(0,b)},
 a0Q(a,b){var s=0,r=A.S(t.Wd),q,p=this
 var $async$pC=A.O(function(c,d){if(c===1)return A.P(d,r)
 while(true)switch(s){case 0:s=3
-return A.N(A.b0K(A.i7("https://www.tymeslice.com/api/v1"+b,0,null),p.b),$async$pC)
+return A.N(A.b0K(A.i7("https://api.tymeslice.com/api/v1"+b,0,null),p.b),$async$pC)
 case 3:q=d
 s=1
 break
@@ -99982,7 +99982,7 @@ nv(a,b){return this.awu(a,b)},
 awu(a,b){var s=0,r=A.S(t.Wd),q,p=this
 var $async$nv=A.O(function(c,d){if(c===1)return A.P(d,r)
 while(true)switch(s){case 0:s=3
-return A.N(A.b1n(A.i7("https://www.tymeslice.com/api/v1"+a,0,null),B.b2.Kc(b,null),p.b),$async$nv)
+return A.N(A.b1n(A.i7("https://api.tymeslice.com/api/v1"+a,0,null),B.b2.Kc(b,null),p.b),$async$nv)
 case 3:q=d
 s=1
 break
